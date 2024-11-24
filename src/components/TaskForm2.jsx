@@ -2,11 +2,9 @@ import React from 'react'
 
 const TaskForm2 = () => {
   return (
-    <form>
-        <div>
-            
-        </div>
-    </form>
+   <div>
+   
+   </div>
   )
 }
 
