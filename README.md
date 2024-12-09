@@ -1,3 +1,19 @@
+# Task Tracker App
+
+## Technologies Used:
+- **React**: For building the user interface.
+- **Redux**: For managing state.
+- **Node.js**: For backend server.
+- **MySQL**: For database.
+- **HTML & CSS**: For context & styling.
+- **JavaScript**: Programming language for the application logic.
+
+## Features:
+- Add, edit, and delete tasks.
+- Track your task's progress.
+- Set due dates and reminders.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
